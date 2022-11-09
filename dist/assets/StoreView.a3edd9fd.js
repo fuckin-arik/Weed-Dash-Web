@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as o,a as t}from"./index.be6a3384.js";const c={},a={class:"store"},n=t("h1",null,"This is an store page",-1),r=[n];function _(i,d){return s(),o("main",a,r)}const f=e(c,[["render",_]]);export{f as default};
