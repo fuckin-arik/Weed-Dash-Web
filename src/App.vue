@@ -7,7 +7,7 @@ import { RouterLink, RouterView } from "vue-router";
     <nav>
       <RouterLink to="/">Home</RouterLink>
       <RouterLink to="/store">Store</RouterLink>
-      <img class="logo" src="./assets/asda.png" />
+      <img class="logo" src="./assets/logo.png" />
       <RouterLink to="/account">Account</RouterLink>
     </nav>
   </header>
@@ -42,11 +42,11 @@ nav {
   margin-top: 2rem;
 }
 
-nav a.router-link-exact-active {
+/* nav a.router-link-exact-active {
 }
 
 nav a.router-link-exact-active:hover {
-}
+} */
 
 nav a {
   color: white;
